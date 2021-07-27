@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "134007081788",
+    "project_id": "socialley-5a884",
+    "storage_bucket": "socialley-5a884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134007081788:android:ecf94dccac3d30b3c7ec39",
+        "android_client_info": {
+          "package_name": "com.example.socialley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134007081788-snencgkdqjpjvvrec12somuqpt4laumb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKOoQxSm7TdGL6vftnk_j1FR3ImxRDTAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134007081788-snencgkdqjpjvvrec12somuqpt4laumb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
